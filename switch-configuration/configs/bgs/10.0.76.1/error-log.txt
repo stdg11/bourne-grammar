@@ -7,3 +7,11 @@ Please register your products now at:  www.hp.com/networking/register
 
 Connection to 10.0.76.1 closed by remote host.
 rm: cannot remove ‘./configs//bgs/10.0.76.1/10.0.76.1-LATEST.cfg’: No such file or directory
+We'd like to keep you up to date about:
+  * Software feature updates
+  * New product announcements
+  * Special events
+Please register your products now at:  www.hp.com/networking/register
+
+
+Connection to 10.0.76.1 closed by remote host.
