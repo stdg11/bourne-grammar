@@ -1,3 +1,3 @@
-* Dan's BGS WorkPad
+* Bourne Grammar NetOps
 
 Check out the wiki for documentation, Issues for my current tasks and the main repo for scripts and server config.

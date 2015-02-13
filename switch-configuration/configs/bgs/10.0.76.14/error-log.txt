@@ -1,0 +1,8 @@
+We'd like to keep you up to date about:
+  * Software feature updates
+  * New product announcements
+  * Special events
+
+Please register your products now at:  www.ProCurve.com
+
+rm: cannot remove ‘./configs//bgs/10.0.76.14/10.0.76.14-LATEST.cfg’: No such file or directory
